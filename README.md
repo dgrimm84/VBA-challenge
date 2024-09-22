@@ -1,5 +1,5 @@
 # VBA-challenge
-Module 2 Challenge 
+Module 2 Challenge - Daniel Grimm
 
 'The files within this repository are described below:
 
